@@ -1,4 +1,4 @@
 # travel-company-landing-page-design
-Create a unique landing page that designed as template for travels companies.
-Tech:
+Created a unique landing page designed as a template for travel companies that want to attract new customers. 
+built with:
 HTML, CSS, SASS, JS
